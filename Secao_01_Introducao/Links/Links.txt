@@ -1,2 +1,5 @@
 Google BigQuery
 https://cloud.google.com/bigquery?utm_source=google&utm_medium=cpc&utm_campaign=latam-BR-all-pt-dr-SKWS-all-all-trial-e-dr-1707800-LUAC0020574&utm_content=text-ad-none-any-DEV_c-CRE_688140022994-ADGP_Hybrid+%7C+SKWS+-+EXA+%7C+Txt_Usecases-Big+Query-KWID_43700079279114517-kwd-12297987241&utm_term=KW_big%20query-ST_big+query&gad_source=1&gclid=Cj0KCQjwkdO0BhDxARIsANkNcrdb0enDVx3R6jTmaYiR8aHtzZ4zz5dl93XESnlvLHchVOh1P0bGdB0aAgQ1EALw_wcB&gclsrc=aw.ds
+
+SQLFORMAT
+https://sqlformat.org/
