@@ -1,0 +1,8 @@
+Python Download
+https://www.python.org/downloads/
+
+Vscode Download
+https://code.visualstudio.com/download
+
+Anaconda Download
+https://www.anaconda.com/products/individual
